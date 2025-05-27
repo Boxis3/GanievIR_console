@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GanievIR")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b9b439fe08aecb3d4dce1fc37135d310530661c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GanievIR")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GanievIR")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
